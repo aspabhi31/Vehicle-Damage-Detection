@@ -1,5 +1,7 @@
 # Vehicle Damage Detection Project
 
+Deployed Application link: https://vehicle-damage-detection-by-abhijeet-singh-pawar-j6muvtcujycob.streamlit.app/
+
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)  
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.0-orange?logo=pytorch&logoColor=white)  
 ![Optuna](https://img.shields.io/badge/Optuna-3.0-green?logo=optuna&logoColor=white)  
